@@ -7,7 +7,7 @@ st.title("🎓 Student Performance Prediction System")
 st.write("Enter your study details to predict your marks 📊")
 
 # load dataset
-data = pd.read_csv("C:\\Users\\Nishita\\Downloads\\CS\\Student Performace Predictor\\data.csv")
+data = pd.read_csv("data.csv")
 
 
 # inputs
