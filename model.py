@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 
 # load data
-data = pd.read_csv("C:\\Users\\Nishita\\Downloads\\CS\\Student Performace Predictor\\data.csv")
+data = pd.read_csv("data.csv")
 
 X = data[['hours', 'attendance', 'sleep']]
 y = data['marks']
