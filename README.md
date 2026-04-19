@@ -21,3 +21,7 @@ This project predicts student marks based on study habits using Machine Learning
 ```bash
 streamlit run app.py
 ```
+<img width="966" height="691" alt="image" src="https://github.com/user-attachments/assets/fd1e8905-eb50-48e3-9b6e-054da77b23a9" />
+<img width="882" height="757" alt="image" src="https://github.com/user-attachments/assets/9b811485-49af-4763-a2f1-0b56bf1d84eb" />
+
+
