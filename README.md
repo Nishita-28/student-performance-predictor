@@ -16,7 +16,7 @@ This project predicts student marks based on study habits using Machine Learning
 * Streamlit
 * Matplotlib
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 streamlit run app.py
